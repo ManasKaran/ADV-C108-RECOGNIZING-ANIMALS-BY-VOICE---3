@@ -1,0 +1,29 @@
+#header_div {
+    background-color: rgba(229, 244, 243, 0.802);
+    margin-top: -20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+body {
+    background-color: rgb(204, 223, 237);
+}
+
+#footer {
+    position: fixed;
+    margin-bottom: 1;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    font-size: 30;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 3px lightblue;
+}
+
+#title{
+    font-family: 'Lobster', cursive;
+    color: black;
+
+}
